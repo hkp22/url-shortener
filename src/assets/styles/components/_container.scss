@@ -1,0 +1,26 @@
+.container {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 20px;
+  width: 100%;
+
+  &--no-padding {
+    padding: 0;
+  }
+
+  &--centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100%;
+  }
+
+  .logo {
+    margin-bottom: 20px;
+    width: 200px;
+  }
+  .logo-home {
+    margin-bottom: 40px;
+  }
+}
