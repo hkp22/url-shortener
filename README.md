@@ -1,6 +1,8 @@
 # shortener
 
-> A Vue.js project
+> Url Shortener App Using VueJs and NodeJs server.
+
+URL Shortener API created in lumen. You can found [Lumen url shortener api repository here](https://github.com/hkp22/lumen-url-shortener-api).
 
 ## Build Setup
 
